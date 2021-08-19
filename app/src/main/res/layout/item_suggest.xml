@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/spinnerText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp" />
+        <!--
+        android:background="@color/FlatDarkRed"
+        android:padding="@dimen/padding_large"
+        android:textColor="@color/FlatLightBlue"
+        -->
+
+</LinearLayout>
